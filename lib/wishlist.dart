@@ -155,7 +155,7 @@ class _WishlistPageState extends State<WishlistPage> {
                               color: Colors.grey[100],
                               borderRadius: BorderRadius.circular(12),
                             ),
-                            child: Image.network('GANTI_URL_GAMBAR_KAOS', fit: BoxFit.contain, errorBuilder: (context, error, stackTrace) => const Icon(Icons.broken_image, size: 50),),
+                            child: Image.network('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLtePGpABvFQML5KPbZzXg787Yjhr1kxUQI0TJaYfJ-IvkTgNqREkTs0&s=10', fit: BoxFit.contain, errorBuilder: (context, error, stackTrace) => const Icon(Icons.broken_image, size: 50),),
                           ),
                           const SizedBox(width: 12),
                           Expanded(
@@ -371,7 +371,7 @@ class _WishlistPageState extends State<WishlistPage> {
                               color: Colors.grey[100],
                               borderRadius: BorderRadius.circular(12),
                             ),
-                            child: Image.network('GANTI_URL_GAMBAR_MACBOOK', fit: BoxFit.contain, errorBuilder: (context, error, stackTrace) => const Icon(Icons.broken_image, size: 50),),
+                            child: Image.network('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNizp74dlCMngAfsWSkd6brO2yprBTlBymL4Pbs_jaFx73zngiy4hkee4&s=10', fit: BoxFit.contain, errorBuilder: (context, error, stackTrace) => const Icon(Icons.broken_image, size: 50),),
                           ),
                           const SizedBox(width: 12),
                           Expanded(
@@ -479,7 +479,7 @@ class _WishlistPageState extends State<WishlistPage> {
                               color: Colors.grey[100],
                               borderRadius: BorderRadius.circular(12),
                             ),
-                            child: Image.network('GANTI_URL_GAMBAR_NIKE', fit: BoxFit.contain, errorBuilder: (context, error, stackTrace) => const Icon(Icons.broken_image, size: 50),),
+                            child: Image.network('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWcEtZIj1iexwUJt-u0U3svK5_6s-i4eFGR6Cv7gVK2llL44cdaQcNAmI&s=10', fit: BoxFit.contain, errorBuilder: (context, error, stackTrace) => const Icon(Icons.broken_image, size: 50),),
                           ),
                           const SizedBox(width: 12),
                           Expanded(
@@ -587,7 +587,7 @@ class _WishlistPageState extends State<WishlistPage> {
                               color: Colors.grey[100],
                               borderRadius: BorderRadius.circular(12),
                             ),
-                            child: Image.network('GANTI_URL_GAMBAR_TAS', fit: BoxFit.contain, errorBuilder: (context, error, stackTrace) => const Icon(Icons.broken_image, size: 50),),
+                            child: Image.network('https://assets.adidas.com/images/w_500,f_auto,q_auto/6ca1a47729474b5088fd613dba07821b_9366/Tas_Ransel_Dengan_Tempat_Pensil_Biru_KR6777.jpg', fit: BoxFit.contain, errorBuilder: (context, error, stackTrace) => const Icon(Icons.broken_image, size: 50),),
                           ),
                           const SizedBox(width: 12),
                           Expanded(
